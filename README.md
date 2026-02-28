@@ -33,4 +33,6 @@ Projeto desenvolvido com base nos ensinamentos da criadora de conteúdo Larissa 
 👨‍💻 Autor
 
 Henrique Handlovics
-🔗 GitHub: https://github.com/Henrique-Handlovics
+🔗 https://github.com/Henrique-Handlovics <br>
+Projeto
+🔗 https://henrique-handlovics.github.io/landing-page-food/
